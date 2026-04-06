@@ -14,9 +14,10 @@ The goal of this assignment was to replicate the provided design as closely as p
 ## Demo Link
 
 
+
 ## Screenshots
 
-![alt text](src/assets/ButtonPopup.png)
+![alt text](src/assets/HomeScreen.png)
 
 ![alt text](src/assets/ButtonPopup.png)
 
