@@ -11,7 +11,7 @@ function TopNavbar() {
           <span className="text-[15px] font-semibold tracking-tight">Worcspace</span>
         </div>
 
-        <button className="flex items-center gap-1 rounded-md bg-white/10 px-3 py-1 text-[12px] font-medium text-white/90">
+        <button className="cursor-pointer flex items-center gap-1 rounded-md bg-white/10 px-3 py-1 text-[12px] font-medium text-white/90">
           Workspace 1
           <ChevronDown size={14} />
         </button>

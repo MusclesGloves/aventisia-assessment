@@ -61,7 +61,7 @@ function Sidebar() {
               return (
                 <button
                   key={item.label}
-                  className={`flex w-full items-center gap-3 rounded-lg px-3 py-2 text-left text-[13px] transition ${
+                  className={`cursor-pointer flex w-full items-center gap-3 rounded-lg px-3 py-2 text-left text-[13px] transition ${
                     item.active
                       ? "bg-[#EEF0FF] text-[#5B54F6]"
                       : "text-[#4B4B5C] hover:bg-[#F5F6FB]"

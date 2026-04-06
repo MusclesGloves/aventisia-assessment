@@ -31,7 +31,7 @@ function HomePage() {
                     <SearchBar />
                   </div>
 
-                  <Button onClick={() => setIsModalOpen(true)} className="h-10 gap-2">
+                  <Button onClick={() => setIsModalOpen(true)} className="cursor-pointer h-10 gap-2">
                     <Plus size={14} />
                     Create New
                   </Button>
@@ -65,16 +65,16 @@ function HomePage() {
                 <div className="font-bold">page 1 of 1</div>
 
                 <div className="flex items-center gap-2">
-                  <button className="flex h-8 w-8 items-center justify-center rounded-md border border-[#E5E7EF] text-[#B4B4BF]">
+                  <button className="cursor-pointer flex h-8 w-8 items-center justify-center rounded-md border border-[#E5E7EF] text-[#B4B4BF]">
                     <ChevronsLeft size={14} />
                   </button>
-                  <button className="flex h-8 w-8 items-center justify-center rounded-md border border-[#E5E7EF] text-[#B4B4BF]">
+                  <button className="cursor-pointer flex h-8 w-8 items-center justify-center rounded-md border border-[#E5E7EF] text-[#B4B4BF]">
                     <ChevronLeft size={14} />
                   </button>
-                  <button className="flex h-8 w-8 items-center justify-center rounded-md border border-[#E5E7EF] text-[#B4B4BF]">
+                  <button className="cursor-pointer flex h-8 w-8 items-center justify-center rounded-md border border-[#E5E7EF] text-[#B4B4BF]">
                     <ChevronRight size={14} />
                   </button>
-                  <button className="flex h-8 w-8 items-center justify-center rounded-md border border-[#E5E7EF] text-[#B4B4BF]">
+                  <button className="cursor-pointer flex h-8 w-8 items-center justify-center rounded-md border border-[#E5E7EF] text-[#B4B4BF]">
                     <ChevronsRight size={14} />
                   </button>
                 </div>

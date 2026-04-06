@@ -5,7 +5,7 @@ function CategoryCard({ title, description, createdOn }) {
     <div className="flex h-full w-full flex-col rounded-lg border border-[#E7E7EF] bg-white px-4 py-4 shadow-[0_0_0_1px_rgba(0,0,0,0.01)]">
       <div className="flex items-start justify-between">
         <h3 className="text-[14px] font-semibold text-[#2A2A33]">{title}</h3>
-        <button className="text-[#7C7C89]">
+        <button className="cursor-pointer text-[#7C7C89]">
           <MoreVertical size={16} />
         </button>
       </div>

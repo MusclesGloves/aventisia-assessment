@@ -23,7 +23,7 @@ function Modal({ isOpen, onClose }) {
               </p>
             </div>
 
-            <button onClick={onClose} className="text-[#757582]">
+            <button onClick={onClose} className="cursor-pointer text-[#757582]">
               <X size={18} />
             </button>
           </div>
@@ -74,7 +74,7 @@ function Modal({ isOpen, onClose }) {
 
           <div className="border-t border-[#EFEFF4] px-4 py-4">
             <div className="flex justify-end">
-              <Button className="min-w-[82px]">Create</Button>
+              <Button className="cursor-pointer min-w-[82px]">Create</Button>
             </div>
           </div>
         </div>
