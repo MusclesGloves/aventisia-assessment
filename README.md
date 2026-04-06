@@ -11,6 +11,15 @@ This project recreates the two required UI states:
 
 The goal of this assignment was to replicate the provided design as closely as possible while keeping the code modular, reusable, and easy to maintain.
 
+## Demo Link
+
+
+## Screenshots
+
+![alt text](src/assets/ButtonPopup.png)
+
+![alt text](src/assets/ButtonPopup.png)
+
 ## Tech Stack
 
 - **React**
