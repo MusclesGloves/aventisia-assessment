@@ -2,6 +2,8 @@
 
 A React + Tailwind CSS implementation of the **Knowledge Base UI** based on the provided design screens for the Aventisia Junior Developer practical assignment.
 
+---
+
 ## Overview
 
 This project recreates the two required UI states:
@@ -11,9 +13,13 @@ This project recreates the two required UI states:
 
 The goal of this assignment was to replicate the provided design as closely as possible while keeping the code modular, reusable, and easy to maintain.
 
+---
+
 ## Demo Link
 
 [Click here for checking out the DEMO](https://aventisia-assessment-43kyeszt0-musclesgloves-projects.vercel.app/)
+
+---
 
 ## Screenshots
 
@@ -24,12 +30,16 @@ The goal of this assignment was to replicate the provided design as closely as p
 
 ![alt text](src/assets/ButtonPopup.png)
 
+---
+
 ## Tech Stack
 
 - **React**
 - **Vite**
 - **Tailwind CSS**
 - **lucide-react** for icons
+
+---
 
 ## Features
 
@@ -41,6 +51,8 @@ The goal of this assignment was to replicate the provided design as closely as p
 - Bottom pagination/info section
 - Functional **Create New** button
 - Right-side drawer modal for creating a new knowledge base
+
+---
 
 ## Project Structure
 
@@ -64,6 +76,8 @@ src/
 ├── index.css
 └── main.jsx
 ```
+
+---
 
 ## Getting Started
 
@@ -98,12 +112,16 @@ npm run build
 npm run preview
 ```
 
+---
+
 ## Design Notes
 
 - Primary color used: `#4F46E5`
 - Secondary color used: `#1E1B4B`
 - Layout and interactions were implemented to closely match the provided assignment screens
 - Only the **Create New** action is interactive, as required
+
+---
 
 ## Deliverables Included
 
@@ -112,12 +130,16 @@ npm run preview
 - Create drawer interaction
 - Ready-to-run Vite project structure
 
+---
+
 ## Possible Future Improvements
 
 - Add full responsiveness for smaller mobile breakpoints
 - Add keyboard accessibility improvements
 - Add form validation for drawer inputs
 - Add real pagination and API-backed data
+
+---
 
 ## Author
 
